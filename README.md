@@ -1,4 +1,4 @@
 amub.github.io
 ==============
 
-Site da Associação de Movimento Urbano
+Site da Associação Movimento Urbano Barbacena
