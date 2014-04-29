@@ -189,6 +189,27 @@ ol, ul {
     width:30%;
 }
 
+#sequence .slide2-img1 {
+  left:2%;
+  bottom:100px;
+  width:45%;
+  z-index: 1;
+}
+
+#sequence .slide2-img2 {
+    width:17%;
+  left:25%;
+  bottom:100px;
+  z-index: 3;
+}
+
+#sequence .slide2-img3 {
+    width:8%;
+  left: 0;
+  bottom:100px;
+  z-index: 2;
+}
+
 #sequence .ipad-screen {
     position:absolute;
     width:84.5%;
@@ -203,6 +224,15 @@ ol, ul {
   top: 200px;
     width:40%;
 }
+
+
+#sequence .slide3-img1 {
+  right:2%;
+  bottom:100px;
+  width:45%;
+  z-index: 1;
+}
+
 #sequence .slide3-img2 {
     width:17%;
   right:37%;
@@ -225,12 +255,6 @@ ol, ul {
     overflow:hidden;
 }
 
-#sequence .slide3-img1 {
-  right:2%;
-  bottom:100px;
-  width:45%;
-  z-index: 1;
-}
 #sequence .message-slide3 {
   left: 2%;
   top: 200px;
